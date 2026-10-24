@@ -1,0 +1,6 @@
+{
+  "name": "Bangladeshi Marriage Biodata Maker",
+  "description": "একটি দ্রুত এবং সহজ বিয়ে বা পাত্র-পাত্রীর বায়োডাটা মেকার।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
